@@ -4,9 +4,9 @@
 "styletoken_style3" : "variable",
 "styletoken_style4" : "comment",
 "styletoken_style5" : "variable.parameter",
-"styletoken_style6" : "number",
+"styletoken_style6" : "constant.numericr",
 "styletoken_style7" : "keyword",
-"styletoken_style8" : "Storage",
-"styletoken_style9" : "entity.name",
+"styletoken_style8" : "storage",
+"styletoken_style9" : "entity.name.tag",
 "styletoken_style10" : "variable.language",
 }
